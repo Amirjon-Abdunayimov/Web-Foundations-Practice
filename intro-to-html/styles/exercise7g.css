@@ -4,8 +4,8 @@ p {
 }
 
 .profile-img {
-   width: 40px;
-   height: 30px;
+   width: 45px;
+   height: 35px;
    border-radius: 50%;
    object-fit: cover;
    vertical-align: middle;
@@ -20,3 +20,14 @@ p {
   cursor: text;
 }
 
+.tweet-button {
+  vertical-align: middle;
+  border: none;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(0, 170, 255);
+  border-radius: 20px;
+  font-weight: bold;
+  width: 60px;
+  height: 25px;
+}
